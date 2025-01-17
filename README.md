@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Rust: accessing elements in a vector using an index that is out of bounds. The example code attempts to access an element beyond the vector's size, causing a runtime panic.  The solution shows how to safely handle this situation using `get()` and optional values.
